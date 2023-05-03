@@ -1,0 +1,15 @@
+{
+  "name": "cryptobot",
+  "version": "1.0.0",
+  "description": "trading bot that compiles multiple trading indicators to give buy and sell signalls as well as give stop losses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^4.1.1",
+    "coinbase-pro": "^0.9.0"
+  }
+}
